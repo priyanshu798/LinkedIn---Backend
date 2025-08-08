@@ -1,0 +1,16 @@
+# Ignore all application.properties files in any service
+**/application.properties
+
+# Build output
+target/
+build/
+out/
+
+# IDE specific
+.idea/
+.vscode/
+*.iml
+
+# OS specific
+.DS_Store
+Thumbs.db
